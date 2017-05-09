@@ -8,6 +8,7 @@ you may want to revisit your resume. You might be great at doing whatever you do
 but you need to stop calling yourself a "Software Engineer" (or Programmer, or 
 Computer Science specialist, or even maybe "Developer".) Stop lying to yourself, and 
 take some time to re-focus your priorities."
+- Some pretentious nerd on the internet
 ```
 
 ### Gettem reddit
